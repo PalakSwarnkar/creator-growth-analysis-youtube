@@ -123,8 +123,7 @@ Not every video needs high clicks—some perform better with a smaller but more 
 ---
 
 ## One Thing I’m Not Fully Confident About
-This analysis is based on a **small, synthetic dataset**, not real YouTube platform data.  
-Metrics like impressions, traffic sources, and recommendation signals are not included, so insights focus on **viewer behavior patterns**, not algorithm-level optimization.
+Viewer behavior may vary by topic, so the same title or thumbnail style might not work equally well for all types of videos.
 
 ---
 
