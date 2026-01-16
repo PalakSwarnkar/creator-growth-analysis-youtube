@@ -1,0 +1,25 @@
+Channel,Video_ID,Title_Style,Thumbnail_Description,Upload_Time,Video_Length_Min,Views,CTR_Percent,Avg_Watch_Time(Minute),Retention_30s_Percent,Retention_End_Percent,CTR %,30sRetention%,End Retention%,Watch Time Ratio
+Your_Channel,YC01,Curiosity,Face with shocked expression,Evening,8,42000,7.6,4.8,72,24,7.60%,72%,24%,60.00%
+Your_Channel,YC02,Clear,Simple text + icon,Morning,10,26000,5.1,6.5,80,38,5.10%,80%,38%,65.00%
+Your_Channel,YC03,Clickbait,Too much text,Night,9,39000,9.3,3,54,11,9.30%,54%,11%,33.30%
+Your_Channel,YC04,Clear,Product image,Evening,12,31000,5.4,7.1,82,41,5.40%,82%,41%,59.20%
+Your_Channel,YC05,Curiosity,Face with arrows,Night,7,45000,8.1,4.6,74,26,8.10%,74%,26%,65.70%
+Your_Channel,YC06,Generic,Plain background,Morning,11,17000,3.8,4.2,66,19,3.80%,66%,19%,38.20%
+Your_Channel,YC07,Curiosity,Face but unclear emotion,Evening,8,22000,4.9,4.1,60,18,4.90%,60%,18%,51.30%
+Your_Channel,YC08,Clickbait,Bright colors + text,Night,10,41000,9.8,3.4,56,13,9.80%,56%,13%,34.00%
+Competitor_A,CA01,Curiosity,Expressive face,Evening,7,62000,8.4,5.3,78,31,8.40%,78%,31%,75.70%
+Competitor_A,CA02,Clear,Diagram style thumbnail,Morning,14,51000,5.2,7.9,86,46,5.20%,86%,46%,56.40%
+Competitor_A,CA03,Clickbait,Overloaded words,Night,11,69000,10.1,3.5,55,12,10.10%,55%,12%,31.80%
+Competitor_A,CA04,Clear,Minimal text,Evening,15,47000,4.8,8.1,87,48,4.80%,87%,48%,54.00%
+Competitor_A,CA05,Generic,Low contrast image,Morning,9,36000,3.6,4,65,20,3.60%,65%,20%,44.40%
+Competitor_A,CA06,Curiosity,Face partially hidden,Night,8,40000,6.2,4.7,70,25,6.20%,70%,25%,58.80%
+Competitor_A,CA07,Clear,Simple icon + text,Evening,13,52000,5.5,7.4,84,43,5.50%,84%,43%,56.90%
+Competitor_A,CA08,Clickbait,Red arrows + text,Night,10,58000,9.6,3.8,58,16,9.60%,58%,16%,38.00%
+Competitor_B,CB01,Curiosity,Human face close-up,Evening,6,59000,8.9,4.9,76,29,8.90%,76%,29%,81.70%
+Competitor_B,CB02,Clear,Step-by-step visual,Morning,15,48000,5,8.2,88,49,5.00%,88%,49%,54.70%
+Competitor_B,CB03,Clickbait,Large text blocks,Night,9,64000,10.4,3.2,53,10,10.40%,53%,10%,35.60%
+Competitor_B,CB04,Clear,Object-focused image,Evening,12,45000,4.6,7.6,83,42,4.60%,83%,42%,63.30%
+Competitor_B,CB05,Generic,Low effort thumbnail,Morning,10,33000,3.4,4.1,64,18,3.40%,64%,18%,41.00%
+Competitor_B,CB06,Curiosity,Face + question mark,Night,7,61000,8,5.2,78,30,8.00%,78%,30%,74.30%
+Competitor_B,CB07,Clear,Minimal text + image,Evening,14,49000,5.3,7.9,86,47,5.30%,86%,47%,56.40%
+Competitor_B,CB08,Clickbait,Bright colors overload,Night,11,67000,9.9,3.6,57,15,9.90%,57%,15%,32.70%
