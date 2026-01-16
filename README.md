@@ -1,7 +1,7 @@
 # YouTube Creator Performance Analysis
 
 Most YouTube videos don’t fail because they’re bad.  
-They fail because **people click… and then leave**.
+They fail because people click… and the video doesn’t deliver what was promised.
 
 This project looks at **why that happens**, using simulated YouTube performance data to understand how titles, thumbnails, and video length influence real viewer behavior.
 
